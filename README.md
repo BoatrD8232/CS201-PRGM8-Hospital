@@ -1,0 +1,1 @@
+CS201R-Pgm8Hospital.cpp conatins main and is the driver of the function. Transaction.txt is the log of transactions. Overflow.csv hold the patients left after the day is over. Queue.h and Queue.cpp implement the queue used in the program. Clinic.h and Clinic.cpp implement the clinic.
