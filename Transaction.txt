@@ -1,0 +1,62 @@
+Invalid Clinic name in input file for Lady Gaga
+Invalid SSN in input file for Popeye 
+
+Heart clinic end of day report:
+Heart Clinic Paitent (Regular): Bernie Sanders was added to the waiting room.
+Heart Clinic Paitent (Regular): Sean Connery was added to the waiting room.
+Heart Clinic Paitent (Regular): Spongebob Squarepants was added to the waiting room.
+Heart Clinic Paitent (Regular): Betty Boop was added to the waiting room.
+Heart Clinic Paitent (Regular): Pink Panther was added to the waiting room.
+Heart Clinic Paitent (Regular): Jennifer Lopez was added to the waiting room.
+Heart Clinic Paitent (Regular): Donald Duck was added to the waiting room.
+Heart Clinic Patient (Regular): a b was added to the waiting room.
+Heart Clinic Patient (Critical): r e was added to the waiting room.
+Heart Clinic Patient r e added to schedule for tomorrow
+Heart Clinic Patient Bernie Sanders added to schedule for tomorrow
+Heart Clinic Patient Sean Connery added to schedule for tomorrow
+Heart Clinic Patient Spongebob Squarepants added to schedule for tomorrow
+Heart Clinic Patient Betty Boop added to schedule for tomorrow
+Heart Clinic Patient Pink Panther added to schedule for tomorrow
+Heart Clinic Patient Jennifer Lopez added to schedule for tomorrow
+Heart Clinic Patient Donald Duck added to schedule for tomorrow
+Heart Clinic Patient a b added to schedule for tomorrow
+
+Pulmonary clinic end of day report:
+Pulmonary Clinic Paitent (Regular): Yosemite Sam was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Johnny Depp was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Lady Gaga was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Jackie Chan was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Mariah Carey was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Brad Pitt was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Will Smith was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Ariana Grande was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Justin Bieber was added to the waiting room.
+Pulmonary Clinic Paitent (Regular): Scooby Doo was added to the waiting room.
+Error- Pulmonary Clinic is full, cannot add Velma Dinkey
+Error- Pulmonary Clinic is full, cannot add Patrick Star
+Pulmonary Clinic waitlist is full, cannot add a b
+Pulmonary Clinic Patient: Yosemite Sam was taken to the operating room.
+Pulmonary Clinic Patient: Johnny Depp was taken to the operating room.
+Pulmonary Clinic Patient Lady Gaga added to schedule for tomorrow
+Pulmonary Clinic Patient Jackie Chan added to schedule for tomorrow
+Pulmonary Clinic Patient Mariah Carey added to schedule for tomorrow
+Pulmonary Clinic Patient Brad Pitt added to schedule for tomorrow
+Pulmonary Clinic Patient Will Smith added to schedule for tomorrow
+Pulmonary Clinic Patient Ariana Grande added to schedule for tomorrow
+Pulmonary Clinic Patient Justin Bieber added to schedule for tomorrow
+Pulmonary Clinic Patient Scooby Doo added to schedule for tomorrow
+
+Plastic Surgery clinic end of day report:
+Plastic Surgery Clinic Paitent (Regular): Bugs Bunny was added to the waiting room.
+Plastic Surgery Clinic Paitent (Regular): Beyonce Knowles was added to the waiting room.
+Plastic Surgery Clinic Paitent (Regular): Britney Spears was added to the waiting room.
+Plastic Surgery Clinic Paitent (Regular): Charlie Brown was added to the waiting room.
+Plastic Surgery Clinic Paitent (Regular): Drake  was added to the waiting room.
+Plastic Surgery Clinic Paitent (Regular): Rihanna  was added to the waiting room.
+ERROR Plastic Surgery Clinic: Unable to find patient 111 In the waiting room
+Plastic Surgery Clinic Patient: Britney Spears was removed from the waiting list.
+Plastic Surgery Clinic Patient Bugs Bunny added to schedule for tomorrow
+Plastic Surgery Clinic Patient Beyonce Knowles added to schedule for tomorrow
+Plastic Surgery Clinic Patient Charlie Brown added to schedule for tomorrow
+Plastic Surgery Clinic Patient Drake  added to schedule for tomorrow
+Plastic Surgery Clinic Patient Rihanna  added to schedule for tomorrow
